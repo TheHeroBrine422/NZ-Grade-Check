@@ -21,7 +21,7 @@
 5. Click the bookmark again.
 6. Hit either of the buttons at the top of the page next to the buttons that say "Full View" and "Collapse All"
 
-## Chrome Extension (WIP) (Will NOT work on school chromebooks) (Recommended on anything other then your school chromebook. ):
+## Chrome Extension (WIP) (Will NOT work on school chromebooks) (Recommended on anything other then your school chromebook.):
 
 Warning: This is not a published extension yet on the Chrome App Store and will require enabling dev mode in chrome.
 
@@ -29,7 +29,7 @@ Warning: This is not a published extension yet on the Chrome App Store and will 
 
 1. Download the github repo by clicking "Clone or Download" and then hitting "Download ZIP"
 2. Unzip the zip file it downloads.
-3. Hit the three dot button in chrome in the top right.
+3. Hit the three dot button in chrome in the top right of chrome.
 4. Hover over the "More Tools" option and then hit "Extensions"
 5. Hit the "Developer Mode" switch in the top right of the screen.
 6. Press "Load Unpacked" near the top left.
