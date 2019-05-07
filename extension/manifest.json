@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "iframe manipulation extension example",
+  "description": "This extension allows to run scripts that manipulate cross domain IFRAME contents.",
+  "version": "1.0",
+
+  "permissions": [
+    "*://hac40.esp.k12.ar.us/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://hac40.esp.k12.ar.us/*"
+      ],
+      "js": ["script.js"],
+      "all_frames": true
+    }
+  ]
+}
