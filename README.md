@@ -5,7 +5,7 @@
 ### Installation:
 
 1. Take the code out of main.js and minify it. There may be a main.min.js already which will have the minified code.
-2. Take the code and tack a javascript: to the beginning of it.
+2. Take the code and tack a "javascript:" to the beginning of it.
 3. Create a new bookmark and save it. (Doesn't matter where this bookmark goes to.)
 4. Right click the bookmark and click "Edit..."
 5. Rename the bookmark to whatever you want. EG: "Grades - Ns/Zs"
