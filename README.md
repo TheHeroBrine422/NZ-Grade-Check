@@ -8,7 +8,7 @@
 3. Create a new bookmark and save it. (Doesn't matter where this bookmark goes to.)
 4. Right click the bookmark and click "Edit..."
 5. Rename the bookmark to whatever you want. EG: "Grades - Ns/Zs"
-6. Copy the code with the javascript: at the beginning into the URL box.
+6. Copy the code into the URL box. (Remove the other URL.)
 7. Click save.
 
 ### Usage:
