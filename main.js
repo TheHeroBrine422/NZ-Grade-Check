@@ -15,7 +15,7 @@ for (var i = 0; i < classesElement.length; i++) {
                 assignmentsElements[j].style.color = "white"
                 assignmentsElements[j].style.backgroundColor = "red"
                 assignmentsElements[j].children[2].children[0].style.color = "white"
-            } else if (Number(assignmentsElements[j].getElementsByTagName("td")[9].innerText.split("%")[0]) < lowGradeThreshold && assignmentsElements[j].getElementsByTagName("td")[9].innerText != " ") {
+            } else if (Number(assignmentsElements[j].getElementsByTagName("td")[9].innerText.split("%")[0]) < lowGradeThreshold && (assignmentsElements[j].getElementsByTagName("td")[9].innerText != " " || assignmentsElements[j].getElementsByTagName("td")[9].innerText != "X")) {
                 assignmentsElements[j].style.backgroundColor = "yellow"     
             }
         }
