@@ -10,8 +10,6 @@ var classesElement = document.getElementsByClassName("AssignmentClass");
 for (var i = 0; i < classesElement.length; i++) {
     assignmentsElements = classesElement[i].getElementsByTagName("tr")
     for (var j = 0; j < assignmentsElements.length; j++) {
-        console.log(assignmentsElements.length)
-        console.log("i"+i+" j"+j)
         if (assignmentsElements[j].getElementsByTagName("td")[0].innerText[0] == "0" || assignmentsElements[j].getElementsByTagName("td")[0].innerText[0] == "1") {
             if (assignmentsElements[j].getElementsByTagName("td")[4].innerText == "N" || assignmentsElements[j].getElementsByTagName("td")[4].innerText == "Z") {
                 assignmentsElements[j].style.color = "white"
