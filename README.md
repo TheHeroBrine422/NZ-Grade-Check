@@ -1,11 +1,10 @@
 # NZ-Grade-Check
 
-## Bookmark (Recommended on school chromebooks only.):
+## Bookmark (Recommended):
 
 ### Installation:
 
-1. Take the code out of main.js and minify it. There may be a main.min.js already which will have the minified code.
-2. Take the code and tack a "javascript:" to the beginning of it.
+1. Copy and Paste the code from main.min.js
 3. Create a new bookmark and save it. (Doesn't matter where this bookmark goes to.)
 4. Right click the bookmark and click "Edit..."
 5. Rename the bookmark to whatever you want. EG: "Grades - Ns/Zs"
@@ -19,9 +18,8 @@
 3. Hit "Ok" on the alert box.
 4. Wait for the new page to load.
 5. Click the bookmark again.
-6. Hit either of the buttons at the top of the page next to the buttons that say "Full View" and "Collapse All"
 
-## Chrome Extension (WIP) (Will NOT work on school chromebooks) (Recommended on anything other then your school chromebook.):
+## Chrome Extension (WIP) (Currently out of date) (Will NOT work on school chromebooks) (Not Recommended):
 
 Warning: This is not a published extension yet on the Chrome App Store and will require enabling dev mode in chrome.
 
